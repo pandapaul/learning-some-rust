@@ -1,0 +1,6 @@
+[package]
+name = "learning-some-rust"
+version = "0.1.0"
+authors = ["Paul Anderson <thesamuraipanda@gmail.com>"]
+
+[dependencies]
